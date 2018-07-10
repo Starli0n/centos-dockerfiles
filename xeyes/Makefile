@@ -15,3 +15,6 @@ shell:
 
 run:
 	${DOCKER_RUN}
+
+push:
+	eval ${DOCKER_PUSH}

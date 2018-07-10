@@ -12,3 +12,6 @@ build:
 
 shell:
 	${DOCKER_SHELL}
+
+push:
+	eval ${DOCKER_PUSH}
